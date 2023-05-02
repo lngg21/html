@@ -1,0 +1,36 @@
+#imagem_redonda{
+    height: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+body {
+    background-color: #9cabc7;
+    font-family: 'sigmar', ;  
+}
+
+h1, h2, h3 {
+    color:#F1F6F9 ;
+}
+body{
+    background-color:#9cabc7;
+    font-family: 'Poppins', sans-serif;
+}
+hr{
+border-color: #394867;
+border-style: ridge;
+border-width: 5px;
+width: 100%;
+}
+h1, h3{
+    text-align: center;
+    color:#F1F6F9;
+    text-decoration: wavy;
+    
+}
+h4{
+    color:#212A3E;
+}
+p{
+    text-align: start;
+    color:#FEFAE0
+}
